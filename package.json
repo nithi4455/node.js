@@ -1,0 +1,18 @@
+{
+  "name": "day-37-task---nodejs",
+  "version": "1.0.0",
+  "description": "Created API endpoints for creating a text file with the name and the content as date/time in a folder and the another API endpoint is for retrieving the txt files from that folder.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.3.4"
+  }
+}
